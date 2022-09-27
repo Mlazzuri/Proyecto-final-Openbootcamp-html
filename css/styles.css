@@ -1,0 +1,17 @@
+.btn-main{
+    background-color: #0075ff;
+    color:white;
+    padding: 0.25rem 1,5rem;
+    border:none;
+    border-radius: 0.25rem;
+    width: 25%;
+    height: 35px;
+    border: 1px solid #0075ff;
+
+}
+
+.btn-main:hover{
+    background-color: white;
+    color: #0075ff;
+    border: 1px solid #0075ff;
+}
